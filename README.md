@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Nathan Baxter  
 
-<!--
-**nbaxter749/nbaxter749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Ulster University studying **Computer Science**  
+💻 Passionate about **Full-Stack Development**, **AI**, and **Software Engineering**  
+📌 Currently working on: [Budget Directory Project](https://github.com/nbaxter749/Budget-Directory-BP)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** Python, JavaScript, TypeScript, SQL  
+- **Frameworks:** React, Node.js, Flask  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools:** GitHub, VS Code, Docker  
+
+---
+
+## 📈 GitHub Stats
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbaxter749&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbaxter749&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with me
+📫 Email: [nathanbaxteruk@gmail.com](mailto:nathanbaxteruk@gmail.com)  
+
